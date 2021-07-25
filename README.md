@@ -1,5 +1,6 @@
-# Mathematical-Modeling
-Files about mathematical modeling in either homework or contest.
+# 数学建模
+## 第一次大作业
 
-- Homework 1 is being done.
+* 注意事项：
+  1. 运行 `\lingo` 目录下的代码时，最好要打开 `\output\results_1.xlsx` 与 `\output\results_2.xlsx`，以避免无法写入数据而报错（但是这并不影响运行的成功性以及结果的正确性）。
 
